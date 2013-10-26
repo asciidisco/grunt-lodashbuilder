@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@://github.com/asciidisco/grunt-lodashbuilder.git"
+    "url": "git://github.com/asciidisco/grunt-lodashbuilder.git"
   },
   "bugs": {
     "url": "https://github.com/asciidisco/grunt-lodashbuilder/issues"
@@ -33,7 +33,7 @@
     "grunt-contrib-jshint": "0.1.x",
     "grunt-contrib-nodeunit": "0.1.x",
     "grunt-contrib-watch": "0.2.x",
-    "lodash": "latest",
+    "lodash": "*",
     "semver": "1.1.x",
     "temp": "0.4.x",
     "node-minify": "0.6.x",
